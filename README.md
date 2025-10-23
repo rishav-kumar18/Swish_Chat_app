@@ -1,4 +1,4 @@
-💬 Swish – Real Time Chat
+💬 Swish Chat App
 
 📖 Overview
 
